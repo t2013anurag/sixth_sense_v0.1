@@ -1,0 +1,9 @@
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\bin\x86\Debug\WUW01.exe.config
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\WUW01.csproj.ResolveComReference.cache
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\WUW01.ViewForm.resources
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\WUW01.WUW.resources
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\WUW01.Properties.Resources.resources
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\WUW01.csproj.GenerateResource.Cache
+C:\Users\Anurag\Downloads\sixthsense-sixthsense-0.1beta-0-ga921d10\sixthsense-sixthsense-a921d10\WUW01\obj\x86\Debug\WUW01.csprojResolveAssemblyReference.cache
